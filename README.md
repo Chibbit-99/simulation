@@ -4,3 +4,5 @@
 
 ---
 ## Devlog
+
+*Notice: Development has not begun and is expected to commence on 17/12/25*
